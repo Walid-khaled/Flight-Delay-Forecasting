@@ -1,9 +1,20 @@
 ## Flight Delay Forecasting (Machine Learning-Assignment1)
-This repository contains an implementation for Flight delay forecasting using different machine learning models such as linear regression, polynomial regression, and regularizing based on lasso regression.<br>
+This repository contains an implementation for Flight delay forecasting using different machine learning models such as linear regression, polynomial regression, and regularizing based on lasso regression. It is also the solution for Assignment1 in Machine Learning course for ROCV master's program at Innopolis University.<br>
 Task discription is attached.<br>
 Documentation file is also attached.<br>
 
 ---
+### Table of Content 
+```
+├── src              <- directory for source files 
+|    ├── main.py     <- contains python code
+|    ├── main.ipyny  <- contains ipynp notebook
+|
+├── Task discription  
+├── Report 
+└── Readme.md
+```
+
 ### Pre-processing Stage
 The pre-processing stage contains the following:
 1. data exploration
@@ -15,11 +26,3 @@ The pre-processing stage contains the following:
 7. data visualization
 
 ---
-
-
-#### Then uncomment the part for outliers detcetion and removal to get the second plot after removing outliers. 
-
-#### Finally, uncomment each model seperately to get its output and the train and test error through the evaluation mertics. 
-
-
-
