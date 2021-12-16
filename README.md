@@ -24,5 +24,8 @@ The pre-processing stage contains the following:
 5. missing values check function
 6. feature scaling
 7. data visualization
-
 ---
+
+### Final Stage
+- Outlier detection and removal are implemented 
+- Different regression models are applied and a comparsion is conducted based on evaluation metrics
