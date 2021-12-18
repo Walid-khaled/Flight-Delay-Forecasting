@@ -10,8 +10,8 @@ Documentation file is also attached.<br>
 |    ├── main.py     <- contains python code
 |    ├── main.ipyny  <- contains ipynp notebook
 |
-├── Task description  
-├── Report 
+├── Task description.pdf  
+├── Report.pdf 
 └── Readme.md
 ```
 
