@@ -29,3 +29,5 @@ The pre-processing stage contains the following:
 ### Final Stage
 - Outlier detection and removal are implemented 
 - Different regression models are applied, and a comparison is conducted based on evaluation metrics
+
+[MIT License](https://github.com/Walid-khaled/Flight-Delay-Forecasting-ML/blob/main/LICENSE)
